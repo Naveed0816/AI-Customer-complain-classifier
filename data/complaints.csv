@@ -1,0 +1,26 @@
+complaint_text,category
+I was charged twice on my credit card for the same monthly subscription.,Billing
+My monthly invoice shows an unexpected hidden fee that I never agreed to.,Billing
+Please issue a refund immediately; the money was deducted without authorization.,Billing
+"Overcharged on my latest bill, need an adjusted statement.",Billing
+Why did my billing amount increase this month without prior notice?,Billing
+The mobile app keeps crashing every time I reach the checkout screen.,Technical Issues
+I keep seeing a 500 internal server error whenever I try to upload my document.,Technical Issues
+"The website dashboard is down, completely unresponsive on Chrome.",Technical Issues
+The API connection keeps timing out after sending the request.,Technical Issues
+Software freezes on startup; I have reinstalled it three times.,Technical Issues
+The laptop keyboard arrived damaged and several keys are unresponsive.,Product Quality
+The stitching on the jacket ripped apart after wearing it just twice.,Product Quality
+The packaging was completely crushed and the screen inside was scratched.,Product Quality
+The item feels cheap and does not match the specifications displayed online.,Product Quality
+Battery health dropped to 60 percent after only one week of regular use.,Product Quality
+My package has been delayed for two weeks with no tracking update available.,Service Delivery
+"The delivery driver marked my order as handed to recipient, but nothing arrived.",Service Delivery
+"Scheduled an installation appointment for today, but no technician showed up.",Service Delivery
+Courier sent my shipment to the completely wrong delivery hub in another state.,Service Delivery
+Estimated arrival was Monday; it is now Friday and support provides no update.,Service Delivery
+I received an email stating an unauthorized login attempt from an unknown IP.,Account Security
+My account was hacked and my registered phone number was altered.,Account Security
+Potential fraud detected: two-factor authentication codes are arriving without my action.,Account Security
+Someone breached my profile and changed the recovery email address.,Account Security
+I am locked out of my portal because a suspicious login reset my password.,Account Security
